@@ -20,8 +20,8 @@ This repository contains code, model definitions and utilities developed for the
 
 ## Architectures
 
-### Multilayer Perceptron (MLP) Generator
-![MLP architecture](MLP_page-0001.jpg)
+### ResNet Generator
+![ResNet architecture](/figures/ResNet_page-0001.jpg)
 
-### Cramér Generator (Conv1D + Dense hybrid)
-![Cramér architecture](Cramer.JPG)
+### PatchGAN Discriminator
+![PatchGAN discriminator architecture](network_dis_fr_page-0001.JPG)
