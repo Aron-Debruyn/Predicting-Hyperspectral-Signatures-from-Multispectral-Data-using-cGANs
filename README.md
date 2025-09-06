@@ -25,4 +25,4 @@ This repository contains code, model definitions and utilities developed for the
 ![ResNet architecture](/figures/ResNet_page-0001.jpg)
 
 ### PatchGAN Discriminator
-![PatchGAN discriminator architecture](/figures/network_dis_fr_page-0001.JPG)
+![PatchGAN discriminator architecture](/figures/network_dis_fr_page-0001.jpg)
