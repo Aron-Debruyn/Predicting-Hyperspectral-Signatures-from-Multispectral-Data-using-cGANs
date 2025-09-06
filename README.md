@@ -1,0 +1,27 @@
+# Predicting Hyperspectral Signatures from Multispectral Data using cGANs
+**Master's thesis project — Aron Debruyn**  
+_Reconstruct hyperspectral (476–914 nm) signatures from multispectral, RGB and two band scenarios inputs using conditional GANs._
+
+---
+
+## Abstract
+This repository contains code, model definitions and utilities developed for the publication **"Predicting Hyperspectral Signatures from Multispectral Data using cGANs for Agricultural Applications"**. The project investigates multiple cGAN generator and discriminator architectures (CNN, U-Net, ResNet, Cramér, MLP and PatchGAN, Cramér and MLP discriminators) and several input-band scenarios (RGB, red-edge, NIR, MI/PCA selected bands) to reconstruct hyperspectral signatures in the 476–914 nm range for agricultural monitoring. The study shows ResNet-based models are generally most stable and accurate, and including red-edge/NIR bands strongly improves performance.
+
+
+---
+
+## Requirements
+- Python 3.11
+- PyTorch 2.6.0
+- NumPy 2.0
+
+
+---
+
+## Architectures
+
+### Multilayer Perceptron (MLP) Generator
+![MLP architecture](MLP_page-0001.jpg)
+
+### Cramér Generator (Conv1D + Dense hybrid)
+![Cramér architecture](Cramer.JPG)
