@@ -1,4 +1,5 @@
-# Predicting Hyperspectral Signatures from Multispectral Data using cGANs
+# Predicting Hyperspectral Signatures from Multispectral Data using cGANs for
+Agricultural Applications
 **Master's thesis project — Aron Debruyn**  
 _Reconstruct hyperspectral (476–914 nm) signatures from multispectral, RGB and two band scenarios inputs using conditional GANs._
 
@@ -24,4 +25,4 @@ This repository contains code, model definitions and utilities developed for the
 ![ResNet architecture](/figures/ResNet_page-0001.jpg)
 
 ### PatchGAN Discriminator
-![PatchGAN discriminator architecture](network_dis_fr_page-0001.JPG)
+![PatchGAN discriminator architecture](/figures/network_dis_fr_page-0001.JPG)
