@@ -21,8 +21,26 @@ This repository contains code, model definitions and utilities developed for the
 
 ## Architectures
 
+### CNN Generator
+![CNN architecture](/figures/network_cnn_page-0001.jpg)
+
+### U-Net Generator
+![U-Net architecture](/figures/network_unet_page-0001.jpg)
+
 ### ResNet Generator
 ![ResNet architecture](/figures/ResNet_page-0001.jpg)
 
+### MLP Generator
+![MLP generator architecture](/figures/MLP_page-0001.jpg)
+
+### Cramér Generator
+![Cramer generator architecture](/figures/Cramer.jpg)
+
 ### PatchGAN Discriminator
 ![PatchGAN discriminator architecture](/figures/network_dis_fr_page-0001.jpg)
+
+### MLP Discriminator
+![MLP discriminator architecture](/figures/MLP_dis_page-0001.jpg)
+
+### Cramér Discriminator
+![Cramer discriminator architecture](/figures/Large_dis_page-0001.jpg)
