@@ -34,7 +34,7 @@ This repository contains code, model definitions and utilities developed for the
 ![MLP generator architecture](/figures/MLP_page-0001.jpg)
 
 ### Cramér Generator
-![Cramer generator architecture](/figures/Cramer.jpg)
+![Cramer generator architecture](/figures/Cramer.JPG)
 
 ### PatchGAN Discriminator
 ![PatchGAN discriminator architecture](/figures/network_dis_fr_page-0001.jpg)
