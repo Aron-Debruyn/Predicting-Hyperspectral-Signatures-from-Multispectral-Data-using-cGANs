@@ -15,8 +15,9 @@ This repository contains code, model definitions and utilities developed for the
 - Python 3.11
 - PyTorch 2.6.0
 - NumPy 2.0
-
-
+- SciPy 1.13.0
+- Matplotlib 3.10
+  
 ---
 
 ## Architectures
