@@ -45,7 +45,7 @@ If you use this code, please cite our paper: Aron Debruyn, Manuel Pérez-Ruiz, S
 
 ---
 ## Contact
-For any inquiries or collaboration opportunities, feel free to reach out to <a href="aron-debruyn@hotmail.com" target="_blank">Aron Debruyn</a> or <a href="https://eapolo.github.io/research/" target="_blank">Dr. O. Enrique Apolo-Apolo</a>
+For any inquiries or collaboration opportunities, feel free to reach out to <a href="https://github.com/Aron-Debruyn" target="_blank">Aron Debruyn</a> or <a href="https://eapolo.github.io/research/" target="_blank">Dr. O. Enrique Apolo-Apolo</a>
 
 ---
 
