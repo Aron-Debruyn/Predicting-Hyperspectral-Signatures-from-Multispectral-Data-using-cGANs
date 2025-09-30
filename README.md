@@ -4,7 +4,7 @@ _Reconstruct hyperspectral (476–914 nm) signatures from multispectral, RGB and
 
 
 The full dataset used for this study is available on **Zenodo**: 
-[//]: # "[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14889285.svg)](https://doi.org/10.5281/zenodo.14889285)"
+
 ---
 
 ## Abstract
