@@ -12,6 +12,10 @@ This repository contains code, model definitions and utilities developed for the
 
 ## Installation & runnning the code
 The code is available as a Jupyter Notebook with the name "predicting_hsi_cgans". If you want to reconstruct the findings of our study download the Zenodo "T_data" Numpy files and set the variable "concatenate_larger" to "True" and change and the variable "basedir" in the hyperparameters dictionary to the directory of the Numpy files, additionally in this dictionary you can adjust different training parameters. If you want to use your own original images, take a look at "directory_of_original_images", "subfolders", "load_orig_images", "load_all_images", "concatenate" and "concatenate_larger" and adapt these accordingly. Regardless of which format you used, the training data will be saved in Numpy Memory-mapped files.
+--- 
+## Entire Article Workflow Overview
+
+
 
 ---
 
@@ -34,7 +38,7 @@ The models used were inspired by
 ---
 
 
-## Architectures
+## Model Architectures
 
 ### CNN Generator
 ![CNN architecture](/figures/network_cnn_page-0001.jpg)
