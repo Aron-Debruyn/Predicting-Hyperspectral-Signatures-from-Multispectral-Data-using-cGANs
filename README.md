@@ -1,7 +1,8 @@
 # Predicting Hyperspectral Signatures from Multispectral Data using cGANs for Agricultural Applications
 **Master's thesis project — Aron Debruyn**  
 _Reconstruct hyperspectral (476–914 nm) signatures from multispectral, RGB and two band scenarios inputs using conditional GANs._ 
-% [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14889285.svg)](https://doi.org/10.5281/zenodo.14889285)  
+
+[//]: # "[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14889285.svg)](https://doi.org/10.5281/zenodo.14889285)"
 ---
 
 ## Abstract
