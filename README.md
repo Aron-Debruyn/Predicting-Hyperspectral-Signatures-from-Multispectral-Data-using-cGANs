@@ -40,6 +40,14 @@ The models used were inspired by
 
 ---
 
+## Citation
+If you use this code, please cite our paper: Aron Debruyn, Manuel Pérez-Ruiz, Stef Lhermitte, Orly Enrique & Apolo Apolo (2025). Predicting Hyperspectral Signatures from Multispectral Data Using cGANs for Agricultural Applications. 
+
+---
+## Contact
+For any inquiries or collaboration opportunities, feel free to reach out to <a href="aron-debruyn@hotmail.com" target="_blank">Aron Debruyn</a> or <a href="https://eapolo.github.io/research/" target="_blank">Dr. O. Enrique Apolo-Apolo</a>
+
+---
 
 ## Model Architectures
 
