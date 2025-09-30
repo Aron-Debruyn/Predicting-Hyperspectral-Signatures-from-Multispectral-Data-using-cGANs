@@ -27,7 +27,7 @@ The code is available as a Jupyter Notebook with the name "predicting_hsi_cgans"
 ## Acknowledgements
 The models used were inspired by 
 - Brais Rodríguez-Suárez, Pablo Quesada-Barriuso, and Francisco Argüello. Design of cgan models for multispectral reconstruction in remote sensing. Remote Sensing, 14(4), 2022. ISSN 2072-4292. doi: 10.3390/rs14040816. URL https://www.mdpi.com/2072-4292/14/4/816.
--Andrew Hennessy, Kenneth Clarke, and Megan Lewis. Generative adversarial network synthesis of hyperspectral vegetation data. Remote Sensing, 13(12), 2021. ISSN 2072-4292. doi: 10.3390/rs13122243. URL https://www.mdpi.com/2072-4292/13/12/2243.
+- Andrew Hennessy, Kenneth Clarke, and Megan Lewis. Generative adversarial network synthesis of hyperspectral vegetation data. Remote Sensing, 13(12), 2021. ISSN 2072-4292. doi: 10.3390/rs13122243. URL https://www.mdpi.com/2072-4292/13/12/2243.
 - Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, and Alexei A. Efros. Image-to-image translation with conditional adversarial networks, 2018. URL https://arxiv.org/abs/1611.07004.
 
 
